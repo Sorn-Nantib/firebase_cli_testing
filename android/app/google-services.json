@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356842013042",
+    "project_id": "tinut444",
+    "storage_bucket": "tinut444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356842013042:android:fd17b73f33c6d5c377ddeb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356842013042-mb905nvlvsmsg546d9smtomp1hjq56dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChpqVcS2MfzO5ENOa5UyhUs-s9vKlgXsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356842013042-mb905nvlvsmsg546d9smtomp1hjq56dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
